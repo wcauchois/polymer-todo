@@ -1,3 +1,6 @@
 *.swp
-bower_components
+# Bower components directory
+resources/public/components
 node_modules
+.lein-env
+target
