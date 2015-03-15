@@ -1,0 +1,8 @@
+{
+  "name": "polymer-todo",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "author": "Bill Cauchois <wcauchois@gmail.com>",
+  "license": "ISC"
+}
